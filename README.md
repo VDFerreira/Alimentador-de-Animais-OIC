@@ -1,3 +1,4 @@
+
 # Alimentador de Animais Domésticos
 
 
@@ -5,6 +6,8 @@
 Este projeto foi desenvolvido com o objetivo de auxiliar os cidadãos, que cada vez mais, por conta de necessidades da sociedade atual, precisam ficar fora de suas casas durante longas horas, logo, sempre havera uma preocupação para aqueles donos de pets, na questão alimentar. 
 O Dispositivo Alimentador de Animais domésticos veio com o objetivo de minimizar tal preocupação, já que dispõe da função de alimentar o seu animal de estimação através de um "clique", ou até mesmo, apenas decidindo um certo horário para seu pet, que ao chegar perto de sua vasilha de ração, será detectado pelo sensor ultrassônico que se encontra nesse projeto, e através dos dispositivos usados, uma porção de ração irá ser despejada em sua vasilha de comida.
 
+## Projeto Final
+![enter image description here](https://i.imgur.com/8e0oO4m.jpg)
 ## Hardware Utilizado
  - NodeMcu ESP8266
  - Servo Motor SG5010
