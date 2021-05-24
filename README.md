@@ -27,7 +27,7 @@ Representação do projeto feito através da plataforma Fritzing.
 ## Vídeo explicativo do projeto
 
 
-## Decrição do Código do Projeto
+## Descrição do Código do Projeto
 
 Para o desenvolvimento do código foram usadas as bibliotecas EEPROM.h, NTPClient.h, WiFiUdp.h, ESP8266WiFi.h e PubSubClient.h.
 - EEPROM.h: permite ler e escrever dados na memória do Arduino.
@@ -38,9 +38,9 @@ Para o desenvolvimento do código foram usadas as bibliotecas EEPROM.h, NTPClien
 
 A IDE usada para fazer essa programação foi a Arduino IDE.
 
-No começo do código a partir das definições da variáveis e da importação das bibliotecas, o resto foi só definir as principais configurações do mqtt e nodeMCU, além de configurar o funcionamento do sensor ultrassónico, o movimento do servo para despejar a comida e as configurações de timer e som a partir do buzzer.
+No começo do código a partir das definições da variáveis e da importação das bibliotecas, o resto foi só definir as principais configurações do mqtt e nodeMCU, além de configurar o funcionamento do sensor ultrassônico, o movimento do servo para despejar a comida e as configurações de timer e som a partir do buzzer.
 
-
+[Clique aqui para ver o código](https://github.com/VDFerreira/Alimentador-de-Animais-OIC/blob/main/codigoAlimentador.ino).
 
 # Feito por
 
