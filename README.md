@@ -16,7 +16,7 @@ O Dispositivo Alimentador de Animais domésticos veio com o objetivo de minimiza
  - Jumpers
 
 ## Interface MQTT
-![Interface MQTT](https://i.imgur.com/uTqiizI.jpg)
+![Interface MQTT](https://i.imgur.com/hBCYZUy.jpg)
 
 Interface gerada pelo aplicativo  IoTMQTT-Panel
 ## Representação do Projeto
