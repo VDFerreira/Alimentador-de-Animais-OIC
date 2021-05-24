@@ -17,9 +17,11 @@ O Dispositivo Alimentador de Animais domésticos veio com o objetivo de minimiza
 
 ## Interface MQTT
 ![Interface MQTT](https://i.imgur.com/uTqiizI.jpg)
+
 Interface gerada pelo aplicativo  IoTMQTT-Panel
 ## Representação do Projeto
 ![Representação de projeto físico](https://i.imgur.com/WBsSLUD.jpg)
+
 Representação do projeto feito através da plataforma Fritzing.
 
 ## Vídeo explicativo do projeto
