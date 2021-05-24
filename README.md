@@ -16,7 +16,7 @@ O Dispositivo Alimentador de Animais domésticos veio com o objetivo de minimiza
  - Jumpers
 
 ## Interface MQTT
-![Interface MQTT](https://i.imgur.com/uTqiizI.jpg)
+![Interface MQTT](https://i.imgur.com/hBCYZUy.jpg)
 
 Interface gerada pelo aplicativo  IoTMQTT-Panel
 ## Representação do Projeto
@@ -27,7 +27,21 @@ Representação do projeto feito através da plataforma Fritzing.
 ## Vídeo explicativo do projeto
 
 
-## Código do Projeto
+## Descrição do Código do Projeto
+
+Para o desenvolvimento do código foram usadas as bibliotecas EEPROM.h, NTPClient.h, WiFiUdp.h, ESP8266WiFi.h e PubSubClient.h.
+- EEPROM.h: permite ler e escrever dados na memória do Arduino.
+- NTPClient.h: libera o uso do protocolo NTP, permitindo a automação e a contagem correta do tempo.
+- WiFiUdp.h: biblioteca que permite o uso do protocolo UDP.
+- PubSubClient.h: a partir dela conseguimos fazer a conexão com o mqtt.
+- ESP8266WiFi.h: a partir dela conseguimos criar a conexão do WIFI com o NodeMCU.
+
+A IDE usada para fazer essa programação foi a Arduino IDE.
+
+No começo do código a partir das definições da variáveis e da importação das bibliotecas, o resto foi só definir as principais configurações do mqtt e nodeMCU, além de configurar o funcionamento do sensor ultrassônico, o movimento do servo para despejar a comida e as configurações de timer e som a partir do buzzer.
+
+[Clique aqui para ver o código](https://github.com/VDFerreira/Alimentador-de-Animais-OIC/blob/main/codigoAlimentador.ino).
+
 # Feito por
 
  - Igor de Holanda Chagas
