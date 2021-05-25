@@ -28,8 +28,8 @@ Interface gerada pelo aplicativo  IoTMQTT-Panel
 Representação do projeto feito através da plataforma Fritzing.
 
 ## Vídeo explicativo do projeto
-Vídeo com conteúdo explicativo de hardware e software utilizado no projeto:
-https://www.youtube.com/watch?v=GjlpPZVdYmk
+Vídeo explicativo do Hardware e do Software utilizados em projeto:
+[![enter image description here](https://media.discordapp.net/attachments/705567563324850177/846561307368226836/unknown.png?width=682&height=427)](https://www.youtube.com/watch?v=GjlpPZVdYmk)
 ## Descrição do Código do Projeto
 
 Para o desenvolvimento do código foram usadas as bibliotecas EEPROM.h, NTPClient.h, WiFiUdp.h, ESP8266WiFi.h e PubSubClient.h.
